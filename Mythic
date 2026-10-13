@@ -104,9 +104,9 @@ local function createNotification()
     end
 
     createRow("ZorVex")
-    createRow("Script")
+    createRow("Only")
     
-    createRow("Update", Color3.fromRGB(255, 50, 50))
+    createRow("1", Color3.fromRGB(255, 50, 50))
 
     task.spawn(function()
         for _, data in ipairs(allLetterData) do
